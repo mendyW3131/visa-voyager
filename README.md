@@ -1,6 +1,5 @@
 # 🌍 **Visa Voyager**  
 ### **The Intelligent Vertical Agent for Global Mobility**
-
 <br>
 
 ## 📌 Overview
@@ -168,7 +167,7 @@ A coordinated system of 6+ agents working in:
 # 🏗 Architecture
 
 ### **High-Level System Diagram**
-![Architecture Diagram](public/architecture.svg)
+![Architecture Diagram](public/screenshots/architecture.svg)
 <br>
 
 ---
